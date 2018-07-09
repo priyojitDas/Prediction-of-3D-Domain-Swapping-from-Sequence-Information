@@ -1,0 +1,66 @@
+Frequency of amino acid A
+Frequency of amino acid C
+Frequency of amino acid D
+Frequency of amino acid E
+Frequency of amino acid F
+Frequency of amino acid G
+Frequency of amino acid H
+Frequency of amino acid I
+Frequency of amino acid K
+Frequency of amino acid L
+Frequency of amino acid M
+Frequency of amino acid N
+Frequency of amino acid P
+Frequency of amino acid Q
+Frequency of amino acid R
+Frequency of amino acid S
+Frequency of amino acid T
+Frequency of amino acid V
+Frequency of amino acid W
+Frequency of amino acid Y
+Frequency of hydrophobic amino acids
+Frequency of neutral amino acids
+Frequency of hydrophilic amino acids
+Frequency of helix
+Frequency of strand
+Frequency of coil
+Frequency of solvent inaccessible residues in helix
+Frequency of solvent inaccessible residues in strand
+Frequency of solvent inaccessible residues in coil
+Total number of cysteins that invole in disulfide bond formation
+Number of cysteins (invole in disulfide bond formation) in helix
+Number of cysteins (invole in disulfide bond formation) in strand
+Number of cysteins (invole in disulfide bond formation) in coil
+hydrogen bond (sidechain to mainchain CO) in helix
+hydrogen bond (side chain to main chain NH) in helix
+hydrogen bond (sidechain to sidechain)in helix
+hydrogen bond (main chain to main chain amide) in helix
+hydrogen bond (main chain to main chain carbonyl) in helix
+hydrogen bond (sidechain to mainchain CO) in strand
+hydrogen bond (side chain to main chain NH) in strand
+hydrogen bond (sidechain to sidechain)in helix in strand
+hydrogen bond (main chain to main chain amide) in strand
+hydrogen bond (main chain to main chain carbonyl) in helix in strand
+hydrogen bond (sidechain to mainchain CO) in coil
+hydrogen bond (side chain to main chain NH) in coil
+hydrogen bond (sidechain to sidechain) in coil
+hydrogen bond (main chain to main chain amide) in coil
+hydrogen bond (main chain to main chain carbonyl) in coil
+Physico-chemical properties (Normalized frequency of coil)
+Physico-chemical properties (Normalized frequency of alpha-helix)
+Physico-chemical properties (Normalized frequency of beta strand)
+Physico-chemical properties (Retention coefficient in TFA)
+Physico-chemical properties (Transfer free energy to surface)
+Physico-chemical properties (Average flexibility indices)
+Physico-chemical properties (volume)
+Physico-chemical properties (residue accessible surface area in folded protein)
+Physico-chemical properties (mutability)
+Physico-chemical properties (molecular weight)
+Physico-chemical properties (melting point)
+Physico-chemical properties (optical activity)
+Physico-chemical properties (side chain volume)
+Physico-chemical properties (hydropathy index)
+Physico-chemical properties (refractivity)
+Physico-chemical properties (hydration potential)
+Physico-chemical properties (polarity)
+Physico-chemical properties (isoelectric point)
